@@ -1,0 +1,18 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="EditorJoinLines" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="InsertLiveTemplate" />
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RerunTests" />
+  <action id="UsageFiltering.Imports" />
+  <action id="context.save" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+</keymap>
