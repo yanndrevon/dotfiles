@@ -1,0 +1,70 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CreateDesktopEntry">
+      <i c="1" l="1766287933830" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="14" l="1768101926424" />
+    </e>
+    <e n="Git.OpenExcludeFile">
+      <i c="1" d="1" l="1768100895392" k="1768100895392" />
+    </e>
+    <e n="GotoAction">
+      <i c="10" l="1768101923591" />
+    </e>
+    <e n="PySwitchSdkAction">
+      <i c="1" d="1" l="1765153846558" k="1765153846558" />
+    </e>
+    <e n="Register">
+      <i c="1" l="1765151778157" />
+    </e>
+    <e n="SettingsSyncOpenSettingsAction">
+      <i c="1" d="1" l="1765162081736" k="1765162081736" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1765151762246" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" d="1" l="1765162118173" k="1765162118173" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" d="1" l="1768100779128" k="1768100779128" />
+    </e>
+    <e n="com.intellij.ide.actions.ToolWindowMoveAction">
+      <i c="1" l="1768101990031" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$ChangePluginStateAction">
+      <i c="1" l="1765162137112" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1765162134530" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1765161972004" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="1" l="1768101938788" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1768101957247" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="11" l="1768101927436" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="11" l="1768102005337" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1766287925359" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1768101992511" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1768101985291" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="27" l="1768100894408" />
+    </e>
+  </component>
+</application>

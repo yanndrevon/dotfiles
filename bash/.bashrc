@@ -126,6 +126,8 @@ c() { cd $1; }
 ..() { cd ..; }
 ...() { cd ...;}
 
+export PATH=$PATH:/opt/pycharm-2025.3.1/bin
+
 # yazi wrapper
 function y() {
 	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd

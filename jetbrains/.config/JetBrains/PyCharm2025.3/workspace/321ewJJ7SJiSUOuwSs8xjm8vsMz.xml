@@ -1,0 +1,359 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="yd_toolkit" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3ipop1t1gj3by" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "WebPreview": {
+      "usageCount": 2,
+      "lastUsed": 1766287911060
+    },
+    "GitExclude file": {
+      "usageCount": 1,
+      "lastUsed": 1768100895636
+    },
+    "GitIgnore file": {
+      "usageCount": 1,
+      "lastUsed": 1768101852922
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitExclude">
+      <summary usageCount="1" lastUsage="1768100895636" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1768101852922" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yd_toolkit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/d/01_Projects/yd_toolkit}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yd_toolkit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/d/01_Projects/yd_toolkit}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/packages}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yd_toolkit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///mnt/d/01_Projects/yd_toolkit}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/packages}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/packages/yd_archiver}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="yd_toolkit" />
+            <item name="yd_toolkit" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="yd_toolkit" />
+              <item name="dir{file:///mnt/d/01_Projects/yd_toolkit}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.venv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".venv" />
+                <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/.venv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/apps" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="apps" />
+                <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/apps}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/configs" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="configs" />
+                <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/configs}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/packages" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="packages" />
+                <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/packages}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/packages/yd_archiver" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="yd_archiver" />
+                  <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/packages/yd_archiver}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/packages/yd_archiver/src" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                    <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/packages/yd_archiver/src}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/packages/yd_archiver/config.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="config.json" />
+                    <item name="config.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/packages/yd_archiver/pyproject.toml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/newui/toml.svg" iconPlugin="org.toml.lang" isLeaf="true" text="pyproject.toml" />
+                    <item name="pyproject.toml" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/packages/yd_archiver/README.md" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                    <item name="README.md" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/packages/yd_archiver/test_ollama.py" />
+                      </map>
+                    </attributes>
+                    <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="test_ollama.py" />
+                    <item name="test_ollama.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/packages/yd_core" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="yd_core" />
+                  <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/packages/yd_core}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/packages/yd_houdini" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="yd_houdini" />
+                  <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/packages/yd_houdini}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/packages/yd_mongo_db" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="yd_mongo_db" />
+                  <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/packages/yd_mongo_db}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/packages/yd_utils" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="yd_utils" />
+                  <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/packages/yd_utils}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tests" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="tests" />
+                <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/tests}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tools" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tools" />
+                <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/tools}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ToRefactor" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="ToRefactor" />
+                <item name="dir{file:///mnt/d/01_Projects/yd_toolkit/ToRefactor}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".env" />
+                <item name=".env" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.python-version" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".python-version" />
+                <item name=".python-version" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pyproject.toml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/newui/toml.svg" iconPlugin="org.toml.lang" isLeaf="true" text="pyproject.toml" />
+                <item name="pyproject.toml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/uv.lock" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/newui/toml.svg" iconPlugin="org.toml.lang" isLeaf="true" text="uv.lock" />
+                <item name="uv.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2430000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.500133" visible="true" weight="0.15078996" />
+      <window_info id="Commit" order="1" sideWeight="0.50027144" weight="0.3273699" />
+      <window_info id="Pull Requests" order="3" sideWeight="0.50027144" weight="0.3273699" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.15078996" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <window_info anchor="right" id="Structure" order="6" sideWeight="0.49986702" side_tool="true" weight="0.15078996" />
+      <unified_weights left="0.15078996" right="0.15078996" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>AIAssistant</value>
+      <value>Structure</value>
+      <value>Commit</value>
+      <value>Pull Requests</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="1331" width="982" height="1086" key="SettingsEditor" timestamp="1768101953526">
+      <screen x="0" y="0" width="2160" height="3840" />
+    </state>
+    <state x="3589" y="1594" key="SettingsEditor/2160.867.3840.2160/0.0.2160.3840@2160.867.3840.2160" timestamp="1765162142204" />
+    <state x="803" y="1331" width="982" height="1086" key="SettingsEditor/2160.910.3840.2160/0.0.2160.3840@0.0.2160.3840" timestamp="1768101953526" />
+    <state x="890" y="932" width="672" height="1268" key="search.everywhere.popup" timestamp="1768101927437">
+      <screen x="0" y="0" width="2160" height="3840" />
+    </state>
+    <state x="3743" y="1391" width="672" height="713" key="search.everywhere.popup/2160.867.3840.2160/0.0.2160.3840@2160.867.3840.2160" timestamp="1765162118163" />
+    <state x="890" y="932" width="672" height="1268" key="search.everywhere.popup/2160.910.3840.2160/0.0.2160.3840@0.0.2160.3840" timestamp="1768101927437" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
