@@ -1,11 +1,11 @@
 {
-    "workbench.colorTheme": "Monokai Pro",
-    "editor.fontFamily": "'Lekton Nerd Font Mono', 'monospace', monospace",
+    "workbench.colorTheme": "Catppuccin Macchiato",
     "files.exclude": {
         "**/__pycache__": true
     },
-    "editor.fontSize": 15,
     "explorer.compactFolders": false,
     "workbench.tree.indent": 20,
-    "workbench.iconTheme": "material-icon-theme"
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'BlexMono Nerd Font Mono', 'monospace', monospace",
+    "files.autoSave": "afterDelay"
 }
